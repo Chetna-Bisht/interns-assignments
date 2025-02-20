@@ -63,16 +63,16 @@ Run the scripts individually using Python:
 
 #### Challenge 1:
 
-python evaluate_expressions.py
+python Challenge1_evaluate_expressions.py
 
 #### Challenge2:
 
-python send_email.py
+python Challenge2_send_email.py
 
 #### Challenge 3:
 
-python palindrome_checker.py
+python Challenge3_palindrome_checker.py
 
 #### Challenge 4:
 
-python string_manipulation.py
+python Challenge4_string_manipulation.py
