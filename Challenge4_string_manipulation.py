@@ -1,0 +1,10 @@
+def manipulate_string(sentence):
+    words = sentence.split()
+    num_words = len(words)
+    reversed_sentence = " ".join(words[::-1])
+    modified_sentence = "-".join(words)
+    print(f"Number of words: {num_words}")
+    print(f"Reversed sentence: {reversed_sentence}")
+    print(f"Modified sentence: {modified_sentence}")
+sentence = input("Enter a sentence: ")
+manipulate_string(sentence)
